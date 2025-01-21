@@ -1,0 +1,9 @@
+evidently
+pandas
+scikit-learn
+fastapi
+uvicorn
+joblib
+pytest
+prometheus_fastapi_instrumentator
+psutil
