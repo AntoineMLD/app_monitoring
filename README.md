@@ -161,6 +161,13 @@ scrape_configs:
 - Credentials par défaut : admin/admin
 - Source de données préconfigurée : Prometheus
 
+![grafana01](https://github.com/user-attachments/assets/b02450d4-bc43-49b9-a9a9-6ebc84a1ab26)
+![grafana02](https://github.com/user-attachments/assets/3fb1c4b4-1b54-45d2-8d59-35fb5bc7485a)
+
+
+
+
+
 ## 📝 Logging
 
 Le système utilise le logging Python avec deux niveaux principaux :
